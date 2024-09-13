@@ -1,0 +1,29 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.calculator{
+    border: 1px solid red;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: aqua;
+    text-align: center;
+}
+
+input{
+    padding: 4px 6px;
+    width: 35px;
+    margin-bottom: 10px;
+    background-color:darksalmon;
+    font-size: 16px;
+}
+#display{
+    width: 80%;
+    text-align: right;
+}
+#teng{
+    width: 75px;
+}
